@@ -1,0 +1,4 @@
+#Sat May 01 13:37:01 PKT 2021
+base.0=D\:\\ZAM Studios Projects\\Mobile\\Flutter\\HaggleTest\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
